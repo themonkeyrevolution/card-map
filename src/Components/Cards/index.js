@@ -3,12 +3,12 @@ import helloCard from "./hello.png";
 export let cards = [
   {
     name: "JS",
-    text: "Javascript",
+    text: "Javascript is a programming language.",
     flipped: false,
   },
   {
     name: "Python",
-    text: "Python",
+    text: "Python is a programming language.",
     flipped: false,
   },
   {
@@ -18,12 +18,12 @@ export let cards = [
   },
   {
     name: "OOP",
-    text: "OOP",
+    text: "Object Oriented Programming",
     flipped: false,
   },
   {
     name: "Ruby",
-    text: "Ruby",
+    text: "Ruby is a programming language",
     flipped: false,
   },
   {
